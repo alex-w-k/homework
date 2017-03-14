@@ -1,11 +1,11 @@
-# How will you know when the problem is solved? (Identify the big-picture goal)
+### How will you know when the problem is solved? (Identify the big-picture goal)
 The problem will be solved when the input and output looks like the example.
-# How do you want to use the software? (Identify the “interface”)
+### How do you want to use the software? (Identify the “interface”)
 The interface will be in the terminal.
-# What’s the (next-)most trivial possible case? (Identify the next small-picture goal)
+### What’s the (next-)most trivial possible case? (Identify the next small-picture goal)
 I need to make a decision tree for all the possible inputs and responses.
 I need to make exit conditions.
-# How do we achieve this goal? (Sketch an algorithm using pseudocode)
+### How do we achieve this goal? (Sketch an algorithm using pseudocode)
 
 ```
 |---> decide what the different inputs will say
